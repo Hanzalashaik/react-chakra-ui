@@ -23,7 +23,7 @@ const Videos = () => {
             style={{
                 width:'100%',
                borderRadius:'30px',
-               margin:'11vh 0 0 5vh'
+               margin:'11vh 0 0 2vh'
                
                 
             }}
